@@ -1,0 +1,4 @@
+
+This abstract presents a text compression process for producing shorter document. To quickly access the important goals and main features of the input document.  This project uses the application of genetic algorithms to summarize a text to automatically generate shorter and informative summaries from large volume of text. This approach represents text data as chromosomes and uses genetic operators such as selection, crossover and mutation to evolve population of summaries. The fitness of each summary is evaluated based on criteria including information, coherence and length, results in producing high qualities summaries.
+
+
